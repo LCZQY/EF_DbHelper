@@ -14,7 +14,9 @@ using System.Reflection;
 using System.Text;
 
 namespace DbHelp.Base
-{
+{/// <summary>
+/// 
+/// </summary>
     public class DbBase
     {
         //是否读写分离(可以配置在配置文件中)
